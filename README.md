@@ -4,7 +4,7 @@ Determining object with orientation is different from calculating object with st
 
 Step 1: Perspective correction with Homography Matrix
 
-(https://github.com/dhanalaxmi-b/Perspective-correction-using-Homography_Matrix)
+(https://github.com/dhanalaxmi-b/Perspective-correction-using-Homography-Matrix)
 
 Step 2: Measuring Height of Object in an Perspective corrected image.
 
